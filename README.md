@@ -1,5 +1,16 @@
-# This is a website of eebbk boom apk installer
-But this tool needs to be activated, and a lot of people are pissed off and annoyed about it
-So I transferred the tool for generating activation codes to the website
-I hope everyone can use it responsibly
-（tips:This tool is from mainland China）
+#关于这个网站
+由eebbk boom开发的应用安装器是一个面向 eebbk boom 设备的第三方应用管理工具，提供 APK 文件的安装
+由于这个项目需要激活，因此为了降低门槛，我把它放置在了这里
+> 本项目由 **麟** 开发维护，感谢 **夜阑** 与 **怠情恶魔德比轮** 的共同创作与支持。
+> ## 声明
+- 请合理、合法使用本工具，开发者不对因滥用导致的任何后果承担责任。
+- 本项目来源于中国大陆。
+## 许可证
+本项目采用 **GNU General Public License v2.0** 进行许可。  
+您可以自由使用、修改和分发本软件，但必须保留原始版权声明，并且任何衍生作品也必须以相同许可证发布。
+详细条款请参见项目根目录下的 [LICENSE](./LICENSE) 文件。
+## 致谢
+- **麟** — 项目发起人与主要开发者，与本项目无直接合作关系
+- **夜阑** — 共同创作者
+- **怠情恶魔德比轮** — 共同创作者
+感谢每一位为项目提供帮助和建议的朋友。
